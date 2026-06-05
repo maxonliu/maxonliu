@@ -48,4 +48,3 @@ Now working on agents at CuteDB; building CuteDB — talk to your data in natura
 
 - 🌐 [weiweitongxue.com](https://weiweitongxue.com)
 - 🐦 [@WayneL2013](https://x.com/WayneL2013)
-- 🏢 [@CuteDB](https://github.com/CuteDB)
