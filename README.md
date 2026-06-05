@@ -2,8 +2,6 @@
 
 📍 Shanghai | 🤖 AI Builder
 
-Now working on agents at CuteDB; building CuteDB — talk to your data in natural language.
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
