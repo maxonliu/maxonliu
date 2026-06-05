@@ -40,5 +40,5 @@
 
 **Connect**
 
-- 🌐 [weiweitongxue.com](https://weiweitongxue.com)
+- 🌐 [weiweitongxue.com](http://weiweitongxue.com)
 - 🐦 [@WayneL2013](https://x.com/WayneL2013)
