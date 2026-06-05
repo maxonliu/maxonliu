@@ -31,7 +31,6 @@
 
 **Currently**
 
-- 🏗️ Building CuteDB — AI database query client
 - 🔧 Contributing to NousResearch/hermes-agent
 - 💡 Working on multi-agent systems with Go + TypeScript
 - 📍 Based in Shanghai
