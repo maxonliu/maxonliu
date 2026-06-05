@@ -1,6 +1,6 @@
 ### Hi, I'm Maxon 👋
 
-📍 Shanghai | 🤖 AI Builder | 🚀 Building CuteDB
+📍 Shanghai | 🤖 AI Builder
 
 Now working on agents at CuteDB; building CuteDB — talk to your data in natural language.
 
