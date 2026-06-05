@@ -26,6 +26,7 @@ Now working on agents at CuteDB; building CuteDB — talk to your data in natura
 🛢️ **CuteDB** — talk to your data in natural language
 🧩 **openclaw-code** — OpenClaw VSCode extension for AI-assisted coding
 🤖 **Hermes Agent** — contributor to the AI agent framework
+⏱️ **TimeBox** — macOS timer app with Pomodoro & daily note sync
 💼 **HardLink** — asset management platform (Go + K8s)
 
 ---
@@ -44,4 +45,3 @@ Now working on agents at CuteDB; building CuteDB — talk to your data in natura
 - 🌐 [weiweitongxue.com](https://weiweitongxue.com)
 - 🐦 [@WayneL2013](https://x.com/WayneL2013)
 - 🏢 [@CuteDB](https://github.com/CuteDB)
-    
