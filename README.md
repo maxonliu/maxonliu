@@ -27,6 +27,8 @@
 
 ⏱️ **TimeBox** — macOS timer app with Pomodoro & daily note sync
 
+🎬 **Show** — recording canvas with PiP camera overlay, drag & paste, single HTML file + native macOS app
+
 ---
 
 **Currently**
